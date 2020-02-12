@@ -31,13 +31,13 @@ namespace CSharp___Exercise_4._0
 
         static string SmileyFace(string input)
         {
-            input = input + ":)";
+            input = input + " :)";
             return input;
         }
 
         static string FrownyFace( string input)
         {
-            input = input + ":(";
+            input = ":( " + input;
             return input;    
         }
     }
