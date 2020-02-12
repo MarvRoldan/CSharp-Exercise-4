@@ -10,7 +10,7 @@ namespace CSharp___Exercise_4._0
            
            string myname = Console.ReadLine(); 
            
-           Console.WriteLine (":(" +myname+ ":)" );
+           Console.WriteLine (":( " +myname+ " :)" );
         }
     }
 }
